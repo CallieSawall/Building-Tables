@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Table about comparing perfumes</title>
+</head>
+<body>
+
+  <!-- Table with Caption -->
+  <table>
+    <caption>Comparing Different Perfumes</caption>
+    <tr>
+      <th>Victoria Secret</th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>Victoria Secret: Bare Vanilla</td>
+      <td>$19.99</td>
+      <td>Lasts 6 hours</td>
+    </tr>
+    <tr>
+      <td>Sol De Janerio :48</td>
+      <td>$38</td>
+      <td>Lasts a 5 hours</td>
+    </tr>
+    <tr>
+      <td>Good girl blush</td>
+      <td>$88</td>
+      <td>2-3 hours</td>
+    </tr>
+  </table>
+
+  <!-- List of Conclusions -->
+  <h2>Conclusions Based on the Table</h2>
+  <ul>
+    <li> Victoria Secret is the least expensive but has the longest lasting scent.</li>
+    <li> Good Girl Blush is the most expensive but has the shortest last scent.</li>
+    <li> Sol De Janerio is a mid -range option in both price and lasting scent.</li>
+  </ul>
+
+</body>
+</html>
